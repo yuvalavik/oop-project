@@ -31,7 +31,7 @@ Discard (ignore) any argument which is not a number, or not in your levels range
 
 ##### 1) By ANT:
 compiling the code will work using the command:
-      ant compile 
+      a.ant compile 
      
 and running it is with:
       ant run
