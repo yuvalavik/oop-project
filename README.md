@@ -30,12 +30,12 @@ Discard (ignore) any argument which is not a number, or not in your levels range
 ## How compile and run:
 
 ##### 1) By ANT:
-compiling the code will work using the command:
-      a.ant compile 
+#####compiling the code will work using the command:
+      ant compile 
      
-and running it is with:
+#####and running it is with:
       ant run
  
-passing arguments to the java run command can be done like this:
+#####passing arguments to the java run command can be done like this:
       ant -Dargs="1 3 2 1 9 1 bla 3 4 3" run
       
